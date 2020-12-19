@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShutdownPCManagerLib", "ShutdownPCManagerLib\ShutdownPCManagerLib.csproj", "{1ED50E5D-D2CB-4532-AA2D-F6E560F1DF9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ED50E5D-D2CB-4532-AA2D-F6E560F1DF9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ED50E5D-D2CB-4532-AA2D-F6E560F1DF9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ED50E5D-D2CB-4532-AA2D-F6E560F1DF9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ED50E5D-D2CB-4532-AA2D-F6E560F1DF9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22001746-164F-4012-8419-501E44F6C4D9}
+	EndGlobalSection
+EndGlobal
